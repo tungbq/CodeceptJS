@@ -1,0 +1,16 @@
+version: 2
+updates:
+  # github-actions
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "daily"
+      time: "14:59"
+    target-branch: "trial-add-weekly-dependabot"
+  # npm
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "daily"
+      time: "14:59"
+    target-branch: "trial-add-weekly-dependabot"
