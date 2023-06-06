@@ -5,5 +5,5 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-      time: "14:40"
+      time: "14:42"
     target-branch: "3.x"
