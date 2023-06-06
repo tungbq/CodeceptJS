@@ -5,12 +5,12 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-      time: "14:59"
+      time: "15:02"
     target-branch: "trial-add-weekly-dependabot"
   # npm
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
       interval: "daily"
-      time: "14:59"
+      time: "15:02"
     target-branch: "trial-add-weekly-dependabot"
